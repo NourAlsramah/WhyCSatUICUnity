@@ -33,4 +33,4 @@ To be the change we wanted to see, our group created a helpful and welcoming exp
 ### School Pack
 - https://assetstore.unity.com/packages/3d/environments/school-assets-146253?srsltid=AfmBOooRbEapJw9VfE4EsAWEv1qlfPg08-aOywQX4iXA291TDLkhaPHV
 
-💙 The Team This project was designed and developed by Sheena, Atulya, Barakah, Deeya, and Nour—all Juniors in the UIC CS program committed to making technology more inclusive and approachable.
+💙 The Team this project was designed and developed by Sheena, Atulya, Barakah, Deeya, and Nour—all Juniors in the UIC CS program committed to making technology more inclusive and approachable.
